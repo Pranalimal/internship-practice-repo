@@ -3,11 +3,11 @@ Hello Everyone! My Name is Pranali Dnayneshwar Mali.
 My Domain Name is Java Full Stack Development.
 
 #Skill set
-HTML
-CSS
-JS
-C
-C++
+HTML,
+CSS,
+JS,
+C,
+C++,
 JAVA (Beginner)
 
 #Carrer Goal 
